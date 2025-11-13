@@ -15,9 +15,3 @@
 <p align="center" 
  
 𝐯𝐢𝐬𝐢𝐭 [𝐦𝐚𝐢𝐧](https://github.com/life-and-death-companions) 𝐡𝐞𝐡 <𝟑 .ᐟ 
-
-<p align="center"
- 
- <img width="341" height="192" alt="image" src="https://github.com/user-attachments/assets/77379959-03dc-438e-97e9-2c10565a144c"/>
-
-</p>
